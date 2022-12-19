@@ -2,6 +2,8 @@
 
 def print_hi(name):
     print(f'Hiiiiiii, {name}')
+    print(f'Изменения, {name}')
+
 
 
 if __name__ == '__main__':
