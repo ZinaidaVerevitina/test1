@@ -1,7 +1,7 @@
 # Привет
 
 def print_hi(name):
-    print(f'Hi, {name}')
+    print(f'Hiiiiiii, {name}')
 
 
 if __name__ == '__main__':
