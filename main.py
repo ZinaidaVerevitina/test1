@@ -1,10 +1,7 @@
-# Привет
+x = str(123)
 
-def print_hi(name):
-    print(f'Hiiiiiii, {name}')
-    print(f'Изменения, {name}')
-
-
-
-if __name__ == '__main__':
-    print_hi('PyCharm')
+y = x[::-1]
+if x == y:
+    print("Palindrome")
+else:
+    print("Not a palindrome")
